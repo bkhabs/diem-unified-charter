@@ -22,7 +22,7 @@ drivers in the development of a digital emblem architecture.
 
 The DIEM WG will initially consider use cases for assets with bindings to emblem types where
 validation of the emblem is indistinguishable from observation of the emblem.
-This encompasses the unique challenge of assets and validators remaining unknown to one another.
+This encompasses the unique challenge of the validator remaining unknown to the operator of the asset.
 
 The working group is tasked with developing: 1) use cases and requirements related to the
 initial scope, 2) an architecture that captures the relationships between entities utilizing
